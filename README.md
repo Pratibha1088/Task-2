@@ -9,12 +9,15 @@ An interactive 2-page dashboard built using Power BI to analyze Shopify sales, c
 * Trend Analysis: Time, Payment Gateway, and Product Type
 
 #### ✅ Page 2: Detailed Transaction Table
-Order-wise Breakdown of Customers
-Product Category, Gateway Used, and Net Sales
-Aggregated and Filterable Table View
+* Order-wise Breakdown of Customers
+* Product Category, Gateway Used, and Net Sales
+* Aggregated and Filterable Table View
 
 #### 💡 Summary
 ✅ Automated data import using MySQL Connector in Python
+
 ✅ Preprocessing and analysis using Pandas, NumPy, Matplotlib, Seaborn
+
 ✅ Dashboard building with Power BI and interactivity using slicers
+
 ✅ Delivered a full customer journey funnel with KPIs and location insights
